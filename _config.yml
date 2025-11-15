@@ -4,7 +4,7 @@
 # Site Settings
 title: 3D Overview
 description: "3D guide for MIRL"
-baseurl: "/telar"
+baseurl: "/3D"
 url: "https://mirl-ucsb.github.io"
 author: "MIRL"
 email: "mirl@arthistory.ucsb.edu"
