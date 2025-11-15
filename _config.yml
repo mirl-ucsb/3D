@@ -2,13 +2,13 @@
 # https://github.com/UCSB-AMPLab/telar
 
 # Site Settings
-title: Telar
-description: "Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. <a href='https://github.com/UCSB-AMPLab/telar'>Telar</a> is a project of <a href='https://neogranadina.org'>Neogranadina</a> and the Archives, Memory, and Preservation Labs at <a href='https://ampl.clair.ucsb.edu/'>UC Santa Barbara</a> and <a href='https://liberalarts.utexas.edu/history/'>UT Austin</a>."
+title: 3D Overview
+description: "3D guide for MIRL"
 baseurl: "/telar"
-url: "https://ampl.clair.ucsb.edu"
-author: ""
-email: ""
-telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
+url: "https://mirl-ucsb.github.io"
+author: "MIRL"
+email: "mirl@arthistory.ucsb.edu"
+telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
 logo: "" # Path to logo image (optional)
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
@@ -29,8 +29,8 @@ telar_language: "en" # Options: "en" (English), "es" (Español)
 #    - If running locally: Run `python3 scripts/fetch_google_sheets.py` before building
 google_sheets:
   enabled: true
-  shared_url: "https://docs.google.com/spreadsheets/d/18dJWy9wkLD7Muokigg4wp85c3Vsjuphdrn0g51pwkGY/edit"
-  published_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT9eeRoyQCr1j-1uDaWBm-rgZNXtn9A-mepL0I4dqDTx2-E_6gbVD-8x0DYDVhppiAzrFpd20_9cr3z/pubhtml"
+  shared_url: "https://docs.google.com/spreadsheets/d/1-5-zF9oKX3kS-uOPuo2CQdF7K3MMyqXtxwzTcWq3Ggs/edit"
+  published_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1_6mtP9-NW_D3BPsJ9IFnGKzgNFsYwWPnv13cxUC4gi5c4CUAM_H3yJzJI7lMJpv1Yuo7rj_hrFVR/pubhtml"
 
 # Story Interface Settings
 story_interface:
